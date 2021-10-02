@@ -1,7 +1,7 @@
 ### Hi there 👋 This is personal repository of Hey Rockstar
 I'm a flutter enthusiast in Tokyo, Japan.
 
-![Hey Rockstar's GitHub stats](https://github-readme-stats.vercel.app/api?username=heyhey1028&show_icons=true&theme=tokyonight)
+![Hey Rockstar's GitHub stats](https://github-readme-stats.vercel.app/api?username=heyhey1028&count_private=true&theme=tokyonight&show_icons=true)
 
 
 <!--
