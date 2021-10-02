@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hi there 👋 This is personal repository of Hey Rockstar
 
-[![heyhey1028's GitHub stats](https://github-readme-stats.vercel.app/api?username=heyhey1028)](https://github.com/anuraghazra/github-readme-stats)
+![hey rockstar's GitHub stats](https://github-readme-stats.vercel.app/api?username=heyhey1028&show_icons=true&theme=tokyonight)
+
 
 
 <!--
